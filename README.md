@@ -1,4 +1,6 @@
-# tmp
+# VueJS Demo
+
+This is a simple VueJS project implementing a simple todo list.
 
 ## Project setup
 ```
